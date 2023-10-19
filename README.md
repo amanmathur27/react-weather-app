@@ -1,6 +1,6 @@
-<h1>React Web-App<h1/>
+<h1>Weather Web App</h1>
 
-🚀 Welcome to React Web-App - a sleek and responsive single-page web application developed with React.js and styled with Tailwind CSS. This project combines cutting-edge front-end technologies to deliver a seamless user experience.
+🚀 Welcome to React Weather Web-App - a sleek and responsive single-page web application developed with React.js and styled with Tailwind CSS. This project combines cutting-edge front-end technologies to deliver a seamless user experience.
 
 Key Features:
 
